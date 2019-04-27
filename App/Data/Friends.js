@@ -19,5 +19,6 @@ var friend = [
 
 var userData = [];
 
-module.exports = friend;
 module.exports = userData;
+module.exports = friend;
+
